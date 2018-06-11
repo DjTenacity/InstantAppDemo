@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="str_">项目结构
+        4个模块
+        app 类型：com.android.application
+        base 类型：com.android.feature
+        feature 类型：com.android.feature
+        instantapp 类型：com.android.instantapp
+
+        2个入口
+        app instantapp</string>
+
+    <string name="input_address_title"></string>
+</resources>
